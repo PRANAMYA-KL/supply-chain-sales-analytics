@@ -80,6 +80,7 @@ This structure supports efficient analytical queries and Power BI reporting.
 📈 Power BI Dashboard
 
 ![Supply Chain Sales Analytics Dashboard](Dashboard/supply_chain_dashboard.png)
+
 The dashboard provides an overview of:
 
 Key Performance Indicators
