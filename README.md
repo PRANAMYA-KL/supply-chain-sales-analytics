@@ -79,7 +79,7 @@ This structure supports efficient analytical queries and Power BI reporting.
 
 📈 Power BI Dashboard
 
-![supply-chain-sales-analytics](Dashboard/supply_chain_dashboard.png)
+![Supply Chain Sales Analytics Dashboard](./Dashboard/supply_chain_dashboard.png)
 
 The dashboard provides an overview of:
 
