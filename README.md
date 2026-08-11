@@ -79,7 +79,9 @@ This structure supports efficient analytical queries and Power BI reporting.
 
 📈 Power BI Dashboard
 
-![Supply Chain Sales Analytics Dashboard](./Dashboard/supply_chain_dashboard.png)
+### 📄 Dashboard Report
+
+[View / Download the Full Power BI Dashboard PDF](Dashboard/supply_db_OLAP_dashboard.pdf)
 
 The dashboard provides an overview of:
 
